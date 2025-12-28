@@ -1,0 +1,19 @@
+{
+  "name": "aula05-tdd-project-pt01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "seed": "node ./seed"
+  },
+  "engines": {
+    "node": "18"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "faker": "^5.1.0"
+  }
+}
