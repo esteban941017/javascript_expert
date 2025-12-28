@@ -1,0 +1,5 @@
+[
+  { "id": "587f18be-7517-40df-8bc8-550c60380a75", "name": "Land Cruiser", "releaseYear": 2020, "available": true, "gasAvailble": true },
+  { "id": "08b9d413-968a-43a0-aada-ddeb4e480968", "name": "XTS", "releaseYear": 2024, "available": true, "gasAvailble": true },
+  { "id": "248d55c4-119e-4c57-8c9d-daa924cfab8d", "name": "911", "releaseYear": 2021, "available": true, "gasAvailble": true }
+]
