@@ -1,4 +1,3 @@
 node_modules
 .nyc_output
 coverage
-modulo01/aula05-tdd-project-pt01/database/*.json
