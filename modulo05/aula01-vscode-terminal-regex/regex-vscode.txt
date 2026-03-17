@@ -1,0 +1,18 @@
+regex101.com
+^\d{3}.\{3}.\d{3}-\d{2}$
+
+123.123.123-14
+321.123.345-20
+300.300.500-19
+
+
+^(\w+),\s(\w+)$
+
+Wendel, Erick
+Gomes, Laila
+Johnson, Jose
+
+replace: ^(\w+),\s(\w+)$ por
+{firstName: "$2", lastName: "$1$}
+
+
