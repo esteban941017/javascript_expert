@@ -7,8 +7,6 @@ describe('TextProcessorAPI', () => {
   it('#build', () => {
     const result = new TextProcessorFluentAPI(mock).build();
 
-    console.log('result:', result);
-    console.log('mock:', mock);
     expect(result).to.be.deep.equal(mock);
   });
 
